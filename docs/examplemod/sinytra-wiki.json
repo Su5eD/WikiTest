@@ -1,5 +1,8 @@
 {
     "id": "examplemod",
     "platform": "modrinth",
-    "slug": "connector"
+    "slug": "connector",
+    "versions": {
+        "1.19.2": "1.19.2-funny"
+    }
 }
