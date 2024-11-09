@@ -1,4 +1,8 @@
 {
     "introduction.mdx": "Introduction",
-    "blocks": "Blocks"
+    "blocks": "Blocks",
+    "items": {
+        "name": "Items funny",
+        "icon": "Squirrel"
+    }
 }
