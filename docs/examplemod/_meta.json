@@ -4,5 +4,11 @@
     "items": {
         "name": "Items funny",
         "icon": "Squirrel"
+    },
+    "entities": {
+        "icon": "Cow"
+    },
+    "concepts": {
+        "name": "Concepts"
     }
 }
