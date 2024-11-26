@@ -1,7 +1,7 @@
 {
     "id": "example-mod",
     "platform": "modrinth",
-    "slug": "lazurite",
+    "slug": "terralith",
     "versions": {
         "1.19.2": "1.19.2-funny"
     }
