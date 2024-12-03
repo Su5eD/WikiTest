@@ -1,7 +1,9 @@
 {
     "id": "example-mod",
-    "platform": "curseforge",
-    "slug": "lazurite",
+    "platforms": {
+        "modrinth": "jei",
+        "curseforge": "jei"
+    },
     "versions": {
         "1.19.2": "1.19.2-funny"
     }
