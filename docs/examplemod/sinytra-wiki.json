@@ -1,6 +1,6 @@
 {
     "id": "example-mod",
-    "platform": "curseforge",
+    "platform": "modrinth",
     "slug": "lazurite",
     "versions": {
         "1.19.2": "1.19.2-funny"
