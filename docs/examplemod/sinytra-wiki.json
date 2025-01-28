@@ -1,6 +1,7 @@
 {
-    "id": "example-mod",
-    "slug": "xd",
+    "id_": "example-mod",
+    "slug": "lazurite",
+    "platform": "modrinth",
     "versions": {
         "1.19.2": "1.19.2-funny"
     }
