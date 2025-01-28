@@ -1,5 +1,6 @@
 {
     "id": "example-mod",
+    "slug": "xd"
     "versions": {
         "1.19.2": "1.19.2-funny"
     }
