@@ -1,5 +1,5 @@
 {
-    "id_": "example-mod",
+    "id": "example_mod",
     "slug": "lazurite",
     "platform": "modrinth",
     "versions": {
