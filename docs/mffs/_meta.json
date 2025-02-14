@@ -1,3 +1,6 @@
 {
-    "getting_started": "Getting Started"
+    "introduction.mdx": "Introduction",
+    "gathering_resources.mdx": "Gathering Resources",
+    "crafting_components.mdx": "Crafting Components",
+    "fortron.mdx": "Fortron"
 }
