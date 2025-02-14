@@ -1,5 +1,9 @@
 {
     "id": "mffs",
-    "platform": "modrinth",
-    "slug": "mffs"
+    "platforms": {
+        "modrinth": "mffs"
+    },
+    "links": {
+        "website": "https://github.com/BuiltBrokenModding"
+    }
 }
